@@ -137,7 +137,7 @@ const string3 = "Na";
 <br>
 
 
-### Iteration 4 | Fruite Slice
+### Iteration 4 | Fruit Slice
 
 Using the string method `slice()`, access and print to the console the name of your favorite fruit from a given string `fruit`.
 
